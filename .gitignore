@@ -1,0 +1,80 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# Environment / secrets
+.env
+.env.*
+final/.env
+
+# Large Amazon review data (download separately)
+*.ft.txt
+data/train.ft.txt
+data/test.ft.txt
+train.ft.txt
+test.ft.txt
+archive (2)/
+
+# Local run artifacts
+notebook_run.log
+.notebook_run.pid
+_ppt_extract/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Other course materials not part of this final project
+W*.pdf
+W1_*.pdf
+W2_*.pdf
+W3_*.pdf
+W4_*.pdf
+W5_*.pdf
+W6*.pdf
+W7*.pdf
+W8*.pdf
+API-driven+Data+Microservices+Architecture.pdf
+Cloud-based+Information+Architecture+II.pdf
+Cloud-based+Information+Architecture+III.pdf
+Data+Schema+and+Validation.pdf
+Introduction+to+NoSQL+databases.pdf
+Key-value+Data+Structures.pdf
+diabetes.csv
+diabetes_*.ipynb
+rewritten_diabetes_*.ipynb
+movies.csv
+movies_service.py
+Data Science*.ipynb
+Data science*.ipynb
+Introduction+to+NoSQL+databases.ipynb
+project.ipynb
+project1*.ipynb
+Untitled.ipynb
+01_distributions.png
+02_correlation.png
+03_boxplots_by_outcome.png
+04_roc_pr_curves.png
+05_feature_importance.png
+06_pca.png
+07_tsne.png
+abilty/
+data/advisor.csv
+data/classroom.csv
+data/course.csv
+data/department.csv
+data/instructor.csv
+data/prereq.csv
+data/schema+diagram.png
+data/section.csv
+data/student.csv
+data/takes.csv
+data/teaches.csv
+data/time_slot.csv
+start_env.sh
+start_env-2.sh
